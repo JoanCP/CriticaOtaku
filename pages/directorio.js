@@ -8,6 +8,10 @@ const Directorio = () =>{
         <>
         <h1>estos es un botton</h1>
         <button onClick={() => setContador(contador+1)}>{contador}</button>
+        
+
+
+
 
         <Footer/>
         </>
